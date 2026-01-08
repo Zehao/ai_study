@@ -40,6 +40,13 @@ Transformers course.
   jupyter notebook course/en/chapter1/section3.ipynb
   ```
 
+## Rotating 3D Earth demo
+- Start a local server and open the browser-friendly globe:
+  ```bash
+  python serve_rotating_earth.py
+  # then visit http://localhost:8000/rotating_earth_web.html
+  ```
+
 ## Helpful links
 - Hugging Face course: https://huggingface.co/learn
 - Transformers docs: https://huggingface.co/docs/transformers
